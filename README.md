@@ -134,8 +134,8 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MdraihanAli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MdraihanAli&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MdraihanAli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdraihanAli&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/MdraihanAli"><img alt="MdraihanAli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MdraihanAli&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/MdraihanAli"><img alt="MdraihanAli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdraihanAli&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -163,6 +163,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=MdraihanAli&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MdraihanAli&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
+ <p dir="auto"><a href="https://github.com/MdraihanAli"><img src="https://camo.githubusercontent.com/83d7a389f54b495c41515c73c5a2aeb555f19c45f5e82fcc904b2e6426149f9f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d727a617368616b65726926726f773d31266d617267696e2d773d3430" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=rzashakeri&amp;row=1&amp;margin-w=40" style="max-width: 100%;"></a></p>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
