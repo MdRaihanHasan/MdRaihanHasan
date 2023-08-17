@@ -1,6 +1,6 @@
 
 <div align="justify">
-<h2>Hi </h2>
+<h2>Salutations, wayfarer!</h2>
 <p>
   <a href="https://www.linkedin.com/in/md-raihan-hasan-3a8b50213">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
@@ -13,8 +13,7 @@
  
 </div>  
 <p align="justify"> 
-welcome to my GitHub Page. I am Raihan Hasan. I am a Laravel Developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 6 years and worked with many languages and technologies. My passion is building well architected, maintainable, and tested web applications using Laravel.
-</p>
+Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practitioner of the Laravel craft. My journey as a developer spans over six enriching years, during which I've delved into diverse languages and technologies. My fervor lies in constructing meticulously architected, maintainable, and rigorously tested web applications through the exquisite framework that is Laravel. As I continue to expand my programming horizons, I relish sharing my insights with fellow enthusiasts, nurturing a cycle of perpetual learning and growth. Join me in this odyssey of code and creativity.</p>
 
 ## My favorite tools and technologies ⚙️ 
 
