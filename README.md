@@ -40,7 +40,7 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
       <br>C++
     </td>
     <td align="center" width="96">
-      <video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/php-file-format-extension-5536083-4618387.mp4" width="65" height="65" type="video/mp4" autoplay="autoplay" loop="loop"></video>
+       <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -56,8 +56,8 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
       <br>Rest
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
+        <img src="https://files.vecteezy.com/system/protected/files/012/697/294/vecteezy_3d-laravel-programming-framework-logo_12697294_203.png" alt="icon" width="65" height="65" />
+      <br>Laravel
     </td>
   </tr>
   <tr>
