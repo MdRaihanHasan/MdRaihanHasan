@@ -1,8 +1,15 @@
 
 <div align="justify">
-[![Linkedin](https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/MdraihanAli//](https://www.linkedin.com/in/md-raihan-hasan-3a8b50213/)](https://www.linkedin.com/in/md-raihan-hasan-3a8b50213/))&nbsp;&nbsp;
-[![gitlab](https://img.shields.io/badge/MdraihanAli-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/MdraihanAli)
 
+<p>
+  <a href="https://www.linkedin.com/in/md-raihan-hasan-3a8b50213">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Mdraihanhasan">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/badge/MdraihanAli-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+</p>
  
 </div>  
 <p align="justify"> 
