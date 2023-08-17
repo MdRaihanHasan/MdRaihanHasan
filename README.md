@@ -56,7 +56,7 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
       <br>Rest
     </td>
     <td align="center" width="96">
-        <img src="https://files.vecteezy.com/system/protected/files/012/697/294/vecteezy_3d-laravel-programming-framework-logo_12697294_203.png" alt="icon" width="65" height="65" />
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-laravel-3-1175147.png" alt="icon" width="65" height="65" />
       <br>Laravel
     </td>
   </tr>
