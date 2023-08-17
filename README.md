@@ -118,17 +118,14 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
  </tr>
 </table>
 
+## Github stats 📊 
+
 <a href="https://github.com/atymic">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdraihanhasan&count_private=true" /> 
 </a>
 <a href="https://github.com/atymic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraihanhasan" />
 </a>
-
-## Github stats 📊 
-
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MdraihanAli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MdraihanAli&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a> 
 
 
 ## GitHub Profile Trophy 🏆
