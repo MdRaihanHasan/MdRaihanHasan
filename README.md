@@ -40,8 +40,8 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+      <video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/php-file-format-extension-5536083-4618387.mp4" width="65" height="65" type="video/mp4" autoplay="autoplay" loop="loop"></video>
+      <br>PHP
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
