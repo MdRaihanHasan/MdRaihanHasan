@@ -56,7 +56,7 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
       <br>Rest
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-laravel-226015.png" alt="icon" width="65" height="65" />
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-laravel-226015.png" alt="icon" width="48" height="48" />
       <br>Laravel
     </td>
   </tr>
@@ -100,7 +100,7 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="48" height="48" alt="AWS" />
+        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="65" height="48" alt="AWS" />
       <br>AWS
     </td>
         <td align="center" width="96">
