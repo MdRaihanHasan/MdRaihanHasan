@@ -1,16 +1,6 @@
 
 <div align="justify">
-<h2>Salutations, wayfarer!</h2>
-<p>
-  <a href="https://www.linkedin.com/in/md-raihan-hasan-3a8b50213">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/Mdraihanhasan">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/badge/MdraihanAli-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-  </a>
-</p>
- 
+<h2>Salutations, wayfarer!</h2> 
 </div>  
 <p align="justify"> 
 Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practitioner of the Laravel craft. My journey as a developer spans over six enriching years, during which I've delved into diverse languages and technologies. My fervor lies in constructing meticulously architected, maintainable, and rigorously tested web applications through the exquisite framework that is Laravel. As I continue to expand my programming horizons, I relish sharing my insights with fellow enthusiasts, nurturing a cycle of perpetual learning and growth. Join me in this odyssey of code and creativity.</p>
@@ -100,7 +90,7 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="65" height="48" alt="AWS" />
+        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="65" height="40" alt="AWS" />
       <br>AWS
     </td>
         <td align="center" width="96">
@@ -134,3 +124,13 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
  -->
  <p dir="auto"><a href="https://github.com/MdraihanAli"><img src="https://camo.githubusercontent.com/83d7a389f54b495c41515c73c5a2aeb555f19c45f5e82fcc904b2e6426149f9f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d727a617368616b65726926726f773d31266d617267696e2d773d3430" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=rzashakeri&amp;row=1&amp;margin-w=40" style="max-width: 100%;"></a></p>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+<p>
+  <a href="https://www.linkedin.com/in/md-raihan-hasan-3a8b50213">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Mdraihanhasan">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/badge/MdraihanAli-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+</p>
