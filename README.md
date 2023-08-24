@@ -127,7 +127,7 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
 
 ## Contact Me
 <p>
-  <a href="https://www.linkedin.com/in/md-raihan-hasan-3a8b50213">
+  <a href="https://www.linkedin.com/in/mdraihanhasan">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
 
