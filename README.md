@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="justify"> 
-Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practitioner of the Laravel craft. My journey as a developer spans over six enriching years, during which I've delved into diverse languages and technologies. My fervor lies in constructing meticulously architected, maintainable, and rigorously tested web applications through the exquisite framework that is Laravel. As I continue to expand my programming horizons, I relish sharing my insights with fellow enthusiasts, nurturing a cycle of perpetual learning and growth. Join me in this odyssey of code and creativity.</p>
+🔭 Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practitioner of the Laravel craft. My journey as a developer spans over six enriching years, during which I've delved into diverse languages and technologies. My fervor lies in constructing meticulously architected, maintainable, and rigorously tested web applications through the exquisite framework that is Laravel. As I continue to expand my programming horizons, I relish sharing my insights with fellow enthusiasts, nurturing a cycle of perpetual learning and growth. Join me in this odyssey of code and creativity.</p>
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -105,10 +105,6 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
     </td>
  </tr>
 </table>
-
-# 💫 About Me:
-🔭 I’m currently working on Laravel
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsrahulkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsrahulrox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraihanhasan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdraihanhussain) 
