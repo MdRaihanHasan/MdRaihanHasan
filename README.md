@@ -1,7 +1,5 @@
-
-<div align="justify">
 # 💫 About Me:
-</div>  
+
 <p align="justify"> 
 Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practitioner of the Laravel craft. My journey as a developer spans over six enriching years, during which I've delved into diverse languages and technologies. My fervor lies in constructing meticulously architected, maintainable, and rigorously tested web applications through the exquisite framework that is Laravel. As I continue to expand my programming horizons, I relish sharing my insights with fellow enthusiasts, nurturing a cycle of perpetual learning and growth. Join me in this odyssey of code and creativity.</p>
 
