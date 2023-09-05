@@ -132,16 +132,6 @@ Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practition
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## Github stats 📊 
-
-<a href="https://github.com/mdraihanhasan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdraihanhasan&count_private=true" /> 
-</a>
-<a href="https://github.com/mdraihanhasan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraihanhasan" />
-</a>
-
-
 ## GitHub Profile Trophy 🏆
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MdraihanAli&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
  -->
