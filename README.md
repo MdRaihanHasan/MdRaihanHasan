@@ -3,7 +3,7 @@
 <p align="justify"> 
 🔭 Welcome to my digital abode on GitHub. I am Raihan Hasan, a dedicated practitioner of the Laravel craft. My journey as a developer spans over six enriching years, during which I've delved into diverse languages and technologies. My fervor lies in constructing meticulously architected, maintainable, and rigorously tested web applications through the exquisite framework that is Laravel. As I continue to expand my programming horizons, I relish sharing my insights with fellow enthusiasts, nurturing a cycle of perpetual learning and growth. Join me in this odyssey of code and creativity.</p>
 
-## My favorite tools and technologies ⚙️ 
+# ✌ My favorite tools and technologies
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -106,7 +106,7 @@
  </tr>
 </table>
 
-## 🌐 Socials:
+# 📨 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsrahulkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsrahulrox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraihanhasan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdraihanhussain) 
 
 # 💻 Tech Stack:
@@ -132,7 +132,7 @@
  <p dir="auto"><a href="https://github.com/MdraihanAli"><img src="https://camo.githubusercontent.com/83d7a389f54b495c41515c73c5a2aeb555f19c45f5e82fcc904b2e6426149f9f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d727a617368616b65726926726f773d31266d617267696e2d773d3430" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=rzashakeri&amp;row=1&amp;margin-w=40" style="max-width: 100%;"></a></p>
 <!-- <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
 
-## Contact Me
+<!-- ## Contact Me
 <p>
   <a href="https://www.linkedin.com/in/mdraihanhasan">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/MdraihanAli-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
@@ -142,4 +142,4 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/badge/MdraihanAli-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
 </p>
-Thanks for Coming
+Thanks for Coming -->
