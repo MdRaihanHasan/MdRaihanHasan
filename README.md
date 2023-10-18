@@ -126,6 +126,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdRaihanHasan&label=Today%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MdRaihanHasan&label=Today%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Profile Trophy 
 
