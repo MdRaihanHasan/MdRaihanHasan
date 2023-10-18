@@ -20,7 +20,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/javascript.gif" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -28,7 +28,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-       <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="icon" width="65" height="65" />
+       <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-laravel-226015.png" alt="icon" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/laravel-wrapper.gif" alt="icon" width="48" height="48" />
       <br>Laravel
     </td>
     <td align="center" width="96"> 
@@ -70,7 +70,7 @@
       <br>Next
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/html-css-js.gif" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
@@ -78,7 +78,7 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/bootstrap.gif" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -96,7 +96,7 @@
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/mysql.gif" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
    <td align="center" width="96">
@@ -104,7 +104,7 @@
       <br>redis
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/postgresql.gif" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
               <td align="center" width="96">
