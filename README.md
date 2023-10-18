@@ -54,15 +54,15 @@
       <br>Laravel
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif" width="65" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <img src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN5cG5vNWJmdHdkNzI0dHZ3ZGxvbGh2dzg3cnB5bTJ2ZHh2cDYweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4THbtyFjr0CFQhXNPU/giphy.gif" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center" width="96">
