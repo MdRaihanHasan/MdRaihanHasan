@@ -62,7 +62,7 @@
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN5cG5vNWJmdHdkNzI0dHZ3ZGxvbGh2dzg3cnB5bTJ2ZHh2cDYweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4THbtyFjr0CFQhXNPU/giphy.gif" width="48" height="48" alt="GitLab" />
+        <img src="https://media.giphy.com/avatars/gitlab/HyKFKml3EsoS/200h.gif" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center" width="96">
