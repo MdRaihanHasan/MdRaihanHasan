@@ -28,7 +28,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" alt="icon" width="65" height="65" />
+       <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" alt="icon" width="65" height="60" />
       <br>PHP
     </td>
     <td align="center" width="96">
