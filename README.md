@@ -125,8 +125,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdRaihanHasan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MdRaihanHasan&label=Today%20Views&color=0&icon=0&pretty=false)]
-[![](https://profile-counter.glitch.me/mdraihanhasan/count.svg)]
+![](https://visitcount.itsvg.in/api?id=MdRaihanHasan&label=Today%20Views&color=0&icon=0&pretty=false) <br>
+Total Count: ![](https://profile-counter.glitch.me/mdraihanhasan/count.svg)
 
 ## 🏆 GitHub Profile Trophy 
 
