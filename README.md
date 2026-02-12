@@ -1,3 +1,9 @@
+# 🏗 Featured Open Source Work
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| [TrafficMonitor-Py](https://github.com/MdRaihanHasan/TrafficMonitor_Py) | Python desktop system and traffic monitoring tool | Python, PyQt6 |
+
 # 💫 About Me:
 
 <p align="justify"> 
