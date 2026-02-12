@@ -140,6 +140,41 @@
 </p>
 
 
+ ## 📇 Contact & Links
+
+<p align="center">
+  <a href="https://github.com/MdRaihanHasan">
+    <img src="https://img.shields.io/badge/GitHub-MdRaihanHasan-black?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="mailto:info@ryn.bd">
+    <img src="https://img.shields.io/badge/Md Raihan Hasan-black?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="https://www.facebook.com/MdRaihanHasan">
+    <img src="https://img.shields.io/badge/Facebook-MdRaihanHasan-black?style=for-the-badge&logo=facebook&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="https://youtube.com/@MdRaihanHasan">
+    <img src="https://img.shields.io/badge/YouTube-Channel-black?style=for-the-badge&logo=youtube&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="https://medium.com/@MdRaihanHasan">
+    <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="https://bughunters.google.com/profile/95d98dc8-d300-4a56-b7aa-ef9d7932b4e0">
+    <img src="https://img.shields.io/badge/Google%20Bug%20Bounty-Awards-black?style=for-the-badge&logo=google&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="https://g.dev/MdRaihanHasan">
+    <img src="https://img.shields.io/badge/Google%20Developer-Profile-black?style=for-the-badge&logo=google&logoColor=FFFFFF">
+  </a>&nbsp;
+  <a href="https://codepen.io/MdRaihanHasan">
+    <img src="https://img.shields.io/badge/CodePen-Projects-black?style=for-the-badge&logo=codepen&logoColor=FFFFFF">
+  </a>&nbsp;
+    <a href="https://buymeacoffee.com/mdraihanhasan">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>&nbsp;
+    <a href="https://patreon.com/MdRaihanHasan">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
+  </a>&nbsp;
+</p>
+
 # 📨 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsrahulkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsrahulrox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraihanhasan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdraihanhussain) 
 
