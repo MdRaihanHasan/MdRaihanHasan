@@ -2,7 +2,16 @@
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| [TrafficMonitor-Py](https://github.com/MdRaihanHasan/TrafficMonitor_Py) | Python desktop system and traffic monitoring tool | Python, PyQt6 |
+| [DevBox](https://github.com/MdRaihanHasan/DevBox) | Laragon-style local web-dev environment manager for Windows — Nginx, MariaDB and PHP-FPM service supervision, portable runtime switching, auto `.test` vhosts with local SSL, one-click Laravel/WordPress projects | Rust, Tauri v2, React, TypeScript |
+| [Unified Email](https://github.com/MdRaihanHasan/unified-email) | Self-hosted unified inbox for Gmail, Google Workspace and Outlook — direct provider APIs (Gmail API, Microsoft Graph, IMAP IDLE), cross-account threading, full-text search, Docker deploy | PHP, Laravel, Inertia.js, Vue 3, PostgreSQL |
+| [LyraPanel](https://github.com/WPCodeLab/lyra-panel) | Laravel 12 admin panel package — RBAC, dynamic Eloquent CRUD, audit trail, user impersonation, invitations and an interactive installer | PHP, Laravel 12 |
+| [TrafficMonitor-Py](https://github.com/WPCodeLab/traffic-monitor) | Python desktop system and traffic monitoring tool | Python, PyQt6 |
+| [scrcpy-desktop](https://github.com/sentrize/scrcpy-desktop) | Clean desktop UI for scrcpy — one-click Android screen mirroring, live device list, Wi-Fi debugging and session recording | Electron, JavaScript |
+| [Football World Cup Live](https://github.com/sentrize/soccer-live) | Fully automated 24/7 broadcast-style World Cup live TV app — cinematic 3D stadium, live match stats, ~15 rotating scenes, simulated or real data feed | Next.js, React Three Fiber, TypeScript, GSAP |
+| [Global Weather Live](https://github.com/MdRaihanHasan/sentrize-weather) | Cinematic 24/7 weather livestream dashboard — rotating 3D Earth, live conditions for 20 nations, alerts, radar and auto-cycling broadcast scenes | Next.js, Three.js, TypeScript, Framer Motion |
+| [Sticky Notes](https://github.com/WPCodeLab/StickyNotes) | Minimal sticky-notes PWA that runs entirely in the browser — drag, resize, format, search, auto-save and offline support via service worker | Vanilla JS, PWA |
+| [Testlify](https://github.com/WPCodeLab/Testlify) | Zero-dependency, offline QA checklist tool for manually verifying websites before release | HTML, JavaScript |
+| [EML Reader](https://github.com/WPCodeLab/eml-reader) | Fully client-side `.eml` file viewer — no frameworks, no server, no uploads | HTML, JavaScript |
 
 # 💫 About Me:
 
