@@ -6,6 +6,7 @@
 | [Unified Email](https://github.com/MdRaihanHasan/unified-email) | Self-hosted unified inbox for Gmail, Google Workspace and Outlook — direct provider APIs (Gmail API, Microsoft Graph, IMAP IDLE), cross-account threading, full-text search, Docker deploy | PHP, Laravel, Inertia.js, Vue 3, PostgreSQL |
 | [LyraPanel](https://github.com/WPCodeLab/lyra-panel) | Laravel 12 admin panel package — RBAC, dynamic Eloquent CRUD, audit trail, user impersonation, invitations and an interactive installer | PHP, Laravel 12 |
 | [TrafficMonitor-Py](https://github.com/WPCodeLab/traffic-monitor) | Python desktop system and traffic monitoring tool | Python, PyQt6 |
+| [Lyra Prime](https://github.com/sentrize/hermes-mobile) | Private AI voice assistant for Android — streaming chat, real-time hands-free voice with tap-to-interrupt, voice dictation, biometric app lock; bring-your-own-server client for a self-hosted Hermes Agent or any OpenAI-compatible API | Flutter, Android |
 | [scrcpy-desktop](https://github.com/sentrize/scrcpy-desktop) | Clean desktop UI for scrcpy — one-click Android screen mirroring, live device list, Wi-Fi debugging and session recording | Electron, JavaScript |
 | [Football World Cup Live](https://github.com/sentrize/soccer-live) | Fully automated 24/7 broadcast-style World Cup live TV app — cinematic 3D stadium, live match stats, ~15 rotating scenes, simulated or real data feed | Next.js, React Three Fiber, TypeScript, GSAP |
 | [Global Weather Live](https://github.com/MdRaihanHasan/sentrize-weather) | Cinematic 24/7 weather livestream dashboard — rotating 3D Earth, live conditions for 20 nations, alerts, radar and auto-cycling broadcast scenes | Next.js, Three.js, TypeScript, Framer Motion |
@@ -35,7 +36,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/javascript.gif" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -43,7 +44,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" alt="icon" width="65" height="60" />
+       <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -65,7 +66,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/laravel-wrapper.gif" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="48" height="48" />
       <br>Laravel
     </td>
     <td align="center" width="96"> 
@@ -85,7 +86,7 @@
       <br>Next
     </td>
     <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/html-css-js.gif" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
@@ -93,7 +94,7 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/bootstrap.gif" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -111,7 +112,7 @@
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/mysql.gif" width="48" height="48" alt="mysql" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
    <td align="center" width="96">
@@ -119,7 +120,7 @@
       <br>redis
     </td>
    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/postgresql.gif" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
               <td align="center" width="96">
